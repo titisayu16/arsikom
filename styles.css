@@ -391,7 +391,7 @@ span.typed-cursor {
 }
 
 /*================media====================*/
-@media (max-width: 800px) and (min-width: 400px) {
+@media (max-width: 400px) and (min-width: 360px) {
   #home {
     justify-content: center;
     align-items: center;
