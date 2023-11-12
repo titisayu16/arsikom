@@ -425,11 +425,13 @@ span.typed-cursor {
   #home .hero .left span {
     margin-top: 1rem;
     margin-bottom: 20px;
+    text-align: center;
   }
 
   #home .typed {
     font-size: 14px;
     padding-top: 0rem;
+    text-align: center;
   }
 
   span.p {
